@@ -165,3 +165,4 @@ void motor_role(int R_dir, int L_dir, int r_spd, int l_spd) {
   }
   analogWrite(LeftMotor_E_pin, L_dir == 0 ? 0 : l_spd);
 }
+[![영상 제목](https://img.youtube.com/vi/QWHbtyy2rTQ/mqdefault.jpg)](https://youtu.be/QWHbtyy2rTQ)
